@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dearlydebbie&show_icons=true&title_color=ba926d&text_color=d4c8b9&bg_color=201f1d&hide_border=true&locale=en&layout=compact" alt="dearlydebbie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dearlydebbie&show_icons=true&theme=dark&title_color=ba926d&text_color=d4c8b9&bg_color=201f1d&hide_border=true&locale=en" alt="dearlydebbie" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dearlydebbie&show_icons=true&theme=dark&title_color=ba926d&text_color=d4c8b9&bg_color=201f1d&hide_border=true&locale=en" alt="dearlydebbie" /></p>]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dearlydebbie&theme=dark" alt="dearlydebbie" /></p>
+[<p><<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dearlydebbie&theme=dark&border_radius=2" alt="GitHub Streak" /></a></p>] --->
